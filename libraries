@@ -1,0 +1,5 @@
+install libraries wx,numpy,pynput,cv2
+
+for wx use :-- sudo apt-get install python-wxgtk3.0
+for punput use :-- sudo pip install pynput
+for opencv :-- sudo apt-get install python-opencv
