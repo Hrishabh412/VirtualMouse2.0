@@ -1,3 +1,7 @@
+user Green color Tape on your two fingers for control.
+everytime when you move them the cursor will also move automatically 
+and if you put your fingers close to each other and then it'll work like a left click and drag and drop.
+
 install libraries wx,numpy,pynput,cv2
 
 for wx use :-- sudo apt-get install python-wxgtk3.0
